@@ -3,9 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Controle de uma lâmpada</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font: normal 20pt Arial;
+            text-align: center;
+        }
+    </style>
 </head>
 <body>
-    
+    <img src="Img/off.jpg" alt="Lâmpada" id="lamp">
+    <form>
+        <input type="button" value="ON" onclick="on()">
+        <input type="button" value="OFF" onclick="off()">
+        <input type="button" value="BLINK" onclick="blink()">
+    </form>
+<script src="controle.js"></script>
 </body>
 </html>
