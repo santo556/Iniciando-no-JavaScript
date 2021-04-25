@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(17, 219, 226);
+    color: white;
+    font: normal 20pt Arial;
+    text-align: center;
+    padding: 100px;
+}
+
+input {
+    padding: 19px;
+    color: rgb(245, 12, 12);
+    font-size: 0.05;
+    font-family: cursive;
+    font-style: italic;
+}
