@@ -1,0 +1,11 @@
+body {
+    background-color: blue;
+    color: rgb(129, 210, 216);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2em;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(172, 113, 228);
+}
