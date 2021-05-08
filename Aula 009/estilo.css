@@ -1,0 +1,13 @@
+#main {
+    max-width: 1080px;
+    margin: 0 auto;
+    background-color: black;
+}
+
+img {
+    max-width: 100%;
+}
+
+body {
+    background-color: black
+}
